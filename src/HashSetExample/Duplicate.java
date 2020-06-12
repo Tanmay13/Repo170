@@ -18,6 +18,7 @@ public class Duplicate {
 			{
 				
 				System.out.println("Duplicate number is"+XX);
+				System.out.println("hellow eclipse");
 			}
 			
 			
